@@ -1,0 +1,31 @@
+_repo: A-Middle-High-German-PrimerThird-Edition_22636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Joseph
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '25463'
+    url: http://www.gutenberg.org/2009/agents/25463
+description: Includes bibliography and glossary.
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22636'
+  lccn: a 17001448
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PF'
+- !lcsh 'German language -- Middle High German, 1050-1500 -- Grammar'
+- !lcsh 'German language -- Middle High German, 1050-1500 -- Readers'
+title: 'A Middle High German Primer
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/22636
